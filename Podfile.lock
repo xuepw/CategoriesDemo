@@ -1,0 +1,105 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - Charts (3.1.1):
+    - Charts/Core (= 3.1.1)
+  - Charts/Core (3.1.1)
+  - DZNEmptyDataSet (1.8.1)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - FSCalendar (2.7.9)
+  - IQKeyboardManager (5.0.7)
+  - JTCalendar (2.2.2)
+  - lottie-ios (2.5.2)
+  - Masonry (1.1.0)
+  - MGBoxKit (8.0.0):
+    - MGEvents
+    - MGMushParser
+  - MGEvents (1.1.0)
+  - MGMushParser (1.2.1)
+  - MJRefresh (3.1.15.3)
+  - SDCycleScrollView (1.75):
+    - SDWebImage (>= 4.0.0)
+  - SDWebImage (4.2.3):
+    - SDWebImage/Core (= 4.2.3)
+  - SDWebImage/Core (4.2.3)
+  - SVProgressHUD (2.2.2)
+  - YPNavigationBarTransition (2.0.3)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - Charts (~> 3.1.1)
+  - DZNEmptyDataSet (~> 1.8.1)
+  - FMDB (~> 2.7.5)
+  - FSCalendar
+  - IQKeyboardManager (~> 5.0.7)
+  - JTCalendar (~> 2.0)
+  - lottie-ios
+  - Masonry (~> 1.1.0)
+  - MGBoxKit
+  - MJRefresh (~> 3.1.15)
+  - SDCycleScrollView (~> 1.74)
+  - SDWebImage (~> 4.2.3)
+  - SVProgressHUD (~> 2.2.2)
+  - YPNavigationBarTransition (~> 2.0)
+  - YYModel (~> 1.0.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Charts
+    - DZNEmptyDataSet
+    - FMDB
+    - FSCalendar
+    - IQKeyboardManager
+    - JTCalendar
+    - lottie-ios
+    - Masonry
+    - MGBoxKit
+    - MGEvents
+    - MGMushParser
+    - MJRefresh
+    - SDCycleScrollView
+    - SDWebImage
+    - SVProgressHUD
+    - YPNavigationBarTransition
+    - YYModel
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  Charts: 90a4d61da0f6e06684c591e3bcab11940fe61736
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  FSCalendar: a04b09f16f811bc92e82f3cf852a15225233b9d5
+  IQKeyboardManager: 0bfa4607d39924116b5c0c8b55b5d789288b5cba
+  JTCalendar: 20610270b29b309bab398f06fc9e2f1aed67a22c
+  lottie-ios: 3fef45d3fabe63e3c7c2eb603dd64ddfffc73062
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MGBoxKit: ec903e5c62d1b11481d2b3b8a7d5c5c6a9355b65
+  MGEvents: 04c4c5b49a420a4895c5bb676ccc708311176d14
+  MGMushParser: e5f80531a96a086694103592db4cbad3ffd78fa5
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  SDCycleScrollView: 884b88f0266dd4708a0e1934975c69cb971707b1
+  SDWebImage: 791bb72962b3492327ddcac4b1880bd1b5458431
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+  YPNavigationBarTransition: bc8ae8a9b2f738900ef91b6811bc381f4effdca8
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: f71b8bc12a94356a5b7202e66a6bf94e70bf3b30
+
+COCOAPODS: 1.6.0.beta.2
